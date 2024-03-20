@@ -1,0 +1,74 @@
+body{
+    background-image: url('C:/Users/Sightspectrum/Desktop/HTML/Images/signup1.jpg');
+     
+     /* background-color: aqua; */
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat:  no-repeat;
+    
+
+}
+.register{
+    width: 380px;
+    font-size: 10px;
+    font-family: sans-serif;
+    margin: auto;
+    padding: 20px 40px 40px;
+    background-color:rgba(172, 167, 167, 0.5);
+    color: aqua;
+    border-radius: 20px;
+
+}
+.register h2
+{
+    text-align: center;
+}
+
+.register .textlable{
+ color:blue;
+ display: block;
+ } 
+.input input{
+    box-shadow: inset;
+    width: 90%;
+    font-size: 1.2em;
+    font-family: sans-serif;
+    font-weight: 0.5em;
+    border: 3px solid aqua;
+    box-shadow: 2px;
+    border-radius: 8px;
+    padding: 2px 2px;
+    box-sizing: border-box;
+    margin: 5px 0px 15px;
+    color: grey;
+    background-color: lightblue;
+}
+#align{
+    display: inline-block;
+    color: blue;
+}
+.btn{
+    text-align: center;
+}
+button{
+    background-color:skyblue;
+    font-size: large;   
+    color:blue;
+    border: 2px solid blue;
+    border-radius: 8px;
+    padding: 5px 5px 5px ;
+    margin: 5px 0px 10px;
+    box-shadow: lightblue;
+    font-family: 'Times New Roman', Times, serif
+}
+
+#reset{
+    background-color: aqua;
+    font-size: large;
+    color:blue;
+    border:2px solid navy;
+    
+}
+
+
+

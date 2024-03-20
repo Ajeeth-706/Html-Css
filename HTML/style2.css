@@ -1,0 +1,51 @@
+body{
+    background-image: url(../HTML/Images/insta3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.insta{
+    background-image:url(../HTML/Images/insta2.jpg) ;
+    background-size: cover ;
+    border-radius: 20px;
+    color: whitesmoke;
+    font-size: 22px;        
+    width: 250px;
+    height: 250px;
+
+
+
+    /* background-color:rgba(212, 225, 236,0.3); */
+    padding: 30px 10px 30px 30px;
+    transform: translate(10px,100px);
+    transform:rotate(-100px )
+    
+}
+.input input{
+    width:80%;
+    border-radius: 20px;
+    border-color: palevioletred;
+}
+.insta h2{
+    font-size: 22px;
+}
+p.p2{
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+
+button{
+    border-radius: 20px;
+    border-color: darkmagenta;
+    padding: 5px 5px 5px;
+    font-size: 10px;
+    color:blue;
+    background-color: lightcoral;
+}
+.btn{
+    margin-left: 80px;
+    margin-top: 6px;
+}
+
+

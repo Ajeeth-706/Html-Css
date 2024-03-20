@@ -1,0 +1,22 @@
+body{
+   
+    text-align: center;
+}
+h1{
+    color:aqua;
+    border: 5px solid white;
+    width: 200px;
+}
+h2{
+    color:white
+}
+h3{
+    color: wheat;
+    border: 5px solid aqua;
+    width: 200px;
+}
+h5{
+    color:aqua;
+    border: 5px solid green;
+    width: 200px;
+}

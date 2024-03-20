@@ -1,0 +1,28 @@
+.seclogin{
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 100px;
+    background-color: blue;
+    padding:10px 10px 10px;
+    border-radius: 50%;
+}
+
+.seclogin h2{
+    text-align: center;
+}
+.input input{
+    width:80%;
+    border-radius: 20px;
+    border-color: palevioletred;
+}
+
+.btn{
+    text-align: center;
+}
+button{
+    padding:5px 5px 5px;
+    margin: 20px;
+    border-radius: 20px;
+}
